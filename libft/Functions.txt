@@ -1,0 +1,68 @@
+PROGRAM
+
+libft.a
+
+FILES:
+
+Makefile
+
+1	= NAME
+1	= all
+1	= clean
+1	= fclean
+1	= re
+
+1	= libft.h
+1	= ft_*.c
+
+STANDART
+
+1	= ft_isalpha
+1	= ft_isdigit
+1	= ft_isalnum
+1	= ft_isascii
+1	= ft_isprint
+1	= ft_strlen
+1	= ft_memset
+1	= ft_bzero
+1	= ft_memcpy
+1	= ft_memmove
+1	= ft_strlcpy
+1	= ft_strlcat
+1	= ft_toupper
+1	= ft_tolower
+1	= ft_strchr
+1	= ft_strrchr
+1	= ft_strncmp
+1	= ft_memchr
+1	= ft_memcmp
+1	= ft_strnstr
+1	= ft_atoi
+1	= ft_calloc
+1	= ft_strdup
+
+DOP
+
+1	= ft_substr
+1	= ft_strjoin
+1	= ft_strtrim
+1	= ft_split
+1	= ft_itoa
+1	= ft_strmapi
+1	= ft_striteri
+1	= ft_putchar_fd
+1	= ft_putstr_fd
+1	= ft_putendl_fd
+1	= ft_putnbr_fd
+
+BONUS
+
+1	= ft_lstnew
+1	= ft_lstadd_front
+1	= ft_lstsize
+1	= ft_lstlast
+1	= ft_lstadd_back
+1	= ft_lstdelone
+1	= ft_lstclear
+1	= ft_lstiter
+1	= ft_lstmap
